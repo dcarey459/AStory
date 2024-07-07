@@ -1,2 +1,3 @@
 This is another testing writing. To fully understand this Git stuff!
 JULY 6 test. Also Ivy's birthday!!!
+CHECKING TO SEE IF THESE CHANGES WILL UPDATE IN BOTH SPOTS!
